@@ -1,0 +1,7 @@
+export OS_AUTH_URL=pa
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=pe
+export OS_PROJECT_DOMAIN_NAME=pi
+export OS_USERNAME=po
+export OS_USER_DOMAIN_NAME=pu
+export OS_PASSWORD=papepipopu
